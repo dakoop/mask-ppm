@@ -3,6 +3,7 @@ Clone this repository into your local system.
 Navigate to the cloned repository in PowerShell.
 
 Run the following command:
+
 <strong>
 bash mask.sh image.ppm mask.pbm > output.ppm
 </strong>
