@@ -29,11 +29,11 @@ do
 	read -r -a iline <&4
 	for((j=0;j<msizex;++j))
 	do
-	    if [ "${values[j]}" = "0" ]
+	    if [ "${values[j]}" = "1" ]
 	    then
-		for((jj=0;jj<30;++jj))
+		for((jj=0;jj<20;++jj))
 		do
-		    printf "${iline[j*30+jj]} "
+		    printf "${iline[j*20+jj]} "
 		done
 	    else
 		for((jj=0;jj<30;++jj))
