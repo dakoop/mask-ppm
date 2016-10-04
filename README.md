@@ -1,3 +1,12 @@
 # mask-ppm
-Masks one image with a bitmap to generate a new image
-In the shell, run 'bash mask.sh image.ppm mask.pbm > output.ppm' to generate the output image
++
++ This script masks the provided image with a bitmap to generate a new image
++ For Window user, set Powershell active in GitHub Desktop
++ In the shell, use the following to run the script
++
++```sh
++ $bash mask.sh image.ppm mask.pbm > output.ppm
++```
++
++Use image viewer or Netpbm Viewer on browser that supports the ppm format
++
