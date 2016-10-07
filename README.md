@@ -5,4 +5,4 @@
 ```
 $bash mask.sh image.ppm mask.pbm > output.ppm
 ```
-+Use image viewer or Netpbm Viewer on browser that supports the ppm format
+Use image viewer or Netpbm Viewer on browser that supports the ppm format
