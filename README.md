@@ -9,5 +9,7 @@ The given command basically runs the script in the file 'mask.sh'. this masks 'm
 All these images can be seen in the .png format at Netpbm Viewer browser.
 
 
+NOTE: After completing the question 2, I mistakenly merged the fix-inverted-maskwith the master branch and deleted the fix-inverted-mask. So in order to do the third question, I will be redoing the whole thing again.
+
 
 
